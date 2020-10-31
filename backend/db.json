@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Jenniffer Rufino",
+        "email": "jenniffer@rufino.com.br"
+      },
+      {
+        "id": 2,
+        "name": "Lipe Oliveira",
+        "email": "lipe@oliveira.com.br"
+      },
+      {
+        "name": "Mariano Bays",
+        "email": "mariano@bays.com.br",
+        "id": 3
+      }
+    ]
+}
+  
